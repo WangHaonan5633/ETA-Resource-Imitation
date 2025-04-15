@@ -255,6 +255,7 @@ Fingerprinting (SWF))(2023)
 * Streaming Media
     * [Breaking Through the Diversity: Encrypted Video Identification Attack Based on QUIC Features](https://link.springer.com/chapter/10.1007/978-3-031-70903-6_9#author-information). Nan Hu. `ESORICS 2024`.
     * [Traffic spills the beans: A robust video identification attack against YouTube](https://www.sciencedirect.com/science/article/abs/pii/S0167404823005333). Xiyuan Zhang. `ComSec 2024`.
+    * [Exploring the Capabilities and Limitations of Video Stream Fingerprinting](https://ieeexplore.ieee.org/abstract/document/10579533).Tim Walsh. `SPW 2024`.
     * [Walls Have Ears: Traffic-based Side-channel Attack in Video Streaming](https://ieeexplore.ieee.org/abstract/document/8486211). Jiaxi Gu. `IEEE INFOCOM 2018`.
 * LLMs
     * [What Was Your Prompt? A Remote Keylogging Attack on AI Assistants](https://www.usenix.org/conference/usenixsecurity24/presentation/weiss). Roy Weiss. `USENIX Security 2024`. [[code]](https://github.com/royweiss1/GPT_Keylogger)
